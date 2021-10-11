@@ -1,0 +1,1 @@
+<?php /*<div style="position:fixed;bottom:0;background:black;color:#fff;width:100%;"> Source 400k - Code <a href="http://fb.com/thienyetoi1">Thiên Yết</a></div>*/
